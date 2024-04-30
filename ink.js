@@ -1,1 +1,2 @@
-document.write("hello world");
+let name = "Maxwell";
+console.log(`Hello, ${name}`);
